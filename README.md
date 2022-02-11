@@ -7,20 +7,11 @@ This is a proof of residency flutter web app made with Firebase. This web app al
 ![Eproof App](https://user-images.githubusercontent.com/54590259/149536127-305adeca-0cc6-47cd-8dd0-902e0f3194db.gif)
 
 ## Features :dart:
-* [x] Firebase Authentication (Login, Register & Logout)
-* [x] Phone number authentication
-* [x] Password reset
 * [x] Digital Signature
 
 ## Packages
 - Syncfusion Flutter Pdf
 - Syncfusion Flutter Signature Pad
-- Firebase Auth
-- Firebase Auth Web
-- Firebase Core
-- Firebase Core Web
-- Cloud Firestore
-- Cloud Firestore Web
 
 ## Companies
 
