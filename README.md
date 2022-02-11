@@ -1,4 +1,4 @@
-# e_proof_app
+# e_proof_app demo
 
 This is a proof of residency flutter web app made with Firebase. This web app allows a user to login and generate proof of residency letters that include the current date and digital signature. The letters can then be sent to the specific resident using whatsApp web via url launcher. This project was specifically done for a municipality in the North West Province of South Africa.
 
