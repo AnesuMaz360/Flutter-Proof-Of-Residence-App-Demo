@@ -1,16 +1,30 @@
-# e_proof_app_demo
+# e_proof_app
 
-A new Flutter project.
+This is a proof of residency flutter web app made with Firebase. This web app allows a user to login and generate proof of residency letters that include the current date and digital signature. The letters can then be sent to the specific resident using whatsApp web via url launcher. This project was specifically done for a municipality in the North West Province of South Africa.
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
+![Eproof App](https://user-images.githubusercontent.com/54590259/149536127-305adeca-0cc6-47cd-8dd0-902e0f3194db.gif)
 
-A few resources to get you started if this is your first Flutter project:
+## Features :dart:
+* [x] Firebase Authentication (Login, Register & Logout)
+* [x] Phone number authentication
+* [x] Password reset
+* [x] Digital Signature
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Packages
+- Syncfusion Flutter Pdf
+- Syncfusion Flutter Signature Pad
+- Firebase Auth
+- Firebase Auth Web
+- Firebase Core
+- Firebase Core Web
+- Cloud Firestore
+- Cloud Firestore Web
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Companies
+
+This project was done for the following companies.
+
+- GAIA INC (Tekda Pty Ltd)
+- Municipality Of Naledi (North West Province, South Africa)
