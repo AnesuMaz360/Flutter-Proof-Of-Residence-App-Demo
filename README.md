@@ -19,3 +19,13 @@ This project was done for the following companies.
 
 - GAIA INC (Tekda Pty Ltd)
 - Municipality Of Naledi (North West Province, South Africa)
+
+## Instructions
+
+If you are new to flutter web and you want to run this project please pay special attention to the following:
+
+- First download the project (It will download as a zipped file)
+- Download Visual Studio Code from the Visual Studio Website and install it
+- Download flutter from the flutter dev website
+- Once you have installed Visual Studio Code and flutter you can run the app after you have opended the project
+- You run the web app by simply tapping F5
